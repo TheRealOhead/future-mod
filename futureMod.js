@@ -5,7 +5,8 @@ desc:'Adds more progression to the game',
 engineVersion:1,
 manifest:'https://rawcdn.githack.com/TheRealOhead/future-mod/main/futureManifest.js',
 requires:['Default dataset*'],
-sheets:{'futureSheet':'https://rawcdn.githack.com/TheRealOhead/future-mod/main/futureIcons.png'},//custom stylesheet (note : broken in IE and Edge for the time being)
+//sheets:{'futureSheet':'https://rawcdn.githack.com/TheRealOhead/future-mod/main/futureIcons.png'},//custom stylesheet (note : broken in IE and Edge for the time being)
+sheets:{'faunaSheet':'https://rawcdn.githack.com/JakeSESaunders/legacy-mod/a8895d0227be8ce025933d57ac4bdd6029870ffd/img/faunaSheet.png'},
 func:function()
 {
 	//The idea in this simple example mod is to add a few elements focused around hot sauce, because hot sauce is great and I use that stuff everywhere.
